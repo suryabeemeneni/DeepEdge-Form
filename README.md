@@ -41,7 +41,7 @@ cd multi-step-form
 ``` Termial
 npm install
 npm install framer-motion
-npm install rect-router-dom
+npm install react-router-dom
 ```
 
 ## Running the Application Locally
